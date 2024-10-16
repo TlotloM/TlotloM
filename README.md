@@ -60,5 +60,5 @@
 ---
 
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=TlotloM&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph">
 </p>
