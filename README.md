@@ -21,7 +21,15 @@
 
 ## 🛠️ Technologies & Tools
 
-## 🖥️ Frontend
+<h3 align ="center"> 👨‍💻 Workspace </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Intel-Core_i5_10th-%230071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel i5 CPU">
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5?style=for-the-badge&logo=DDR4&logoColor=white" alt="16GB RAM">
+  <img src="https://img.shields.io/badge/SSD-512GB-%230071C5?style=for-the-badge&logo=ssd&logoColor=white" alt="512GB SSD">
+  <img src="https://img.shields.io/badge/Windows-10-%230078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10">
+</p>
+
+<h3 align ="center"> 🖥️ Frontend </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -31,7 +39,7 @@
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
 </p>
 
-## ⚙️ Backend
+<h3 align ="center"> ⚙️ Backend </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -40,7 +48,7 @@
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
 </p>
 
-## ☁️ Database/Cloud
+<h3 align ="center"> ☁️ Database/Cloud </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server">
@@ -48,7 +56,14 @@
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
 </p>
-
+<h3 align ="center"> Developer Tools </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
+  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" alt="Notepad++">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+</p>
 ---
 
 ## 📊 GitHub Stats
@@ -67,12 +82,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tlotlo-matras-2bb008251" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="mailto:temoso.matras@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"></a>
 </p>
 
 ---
-
-<p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=TlotloM&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph">
-</p>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
