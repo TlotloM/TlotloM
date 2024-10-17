@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-- 🌱 I’m currently Bachelor of Computer and Information Sciences in Application Development at Varsity College,SA.
+- 🌱 I’m currently doing my third year in Bachelor of Computer and Information Sciences in Application Development at Varsity College,SA.
 
 ---
 
