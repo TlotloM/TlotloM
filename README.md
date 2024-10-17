@@ -83,6 +83,3 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/tlotlo-matras-2bb008251" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </p>
-
----
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
